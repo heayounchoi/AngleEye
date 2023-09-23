@@ -4,7 +4,7 @@
 ## Detector.py
 - This module detects object from an image.
 - It only draws boxes around objects with the highest scores.
-- Save the annotations if the model detects object correctly.
+- Save the annotations if the model detects object correctly.
 - Saved annotations will be used to crop images in Cropper.py.
 
 ## Cropper.py
