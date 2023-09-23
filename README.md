@@ -8,7 +8,7 @@
 - Saved annotations will be used to crop images in Cropper.py.
 
 ## Cropper.py
-- This module will annotated boxes from images.
+- This module will crop annotated boxes from images.
 - It will increase the accuracy during the angle recognition process.
 
 ## AngleEye.ipynb
