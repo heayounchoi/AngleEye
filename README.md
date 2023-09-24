@@ -2,7 +2,7 @@
  A convolutional model that recognizes the orientation of objects in an image.
 
 ## Detector.py
-- This module detects object from an image.
+- This module uses FasterRCNN-Resnet50-FPN model to detect object from an image.
 - It only draws boxes around objects with the highest scores.
 - Save the annotations if the model detects object correctly.
 - Saved annotations will be used to crop images in Cropper.py.
