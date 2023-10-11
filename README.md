@@ -1,6 +1,7 @@
 # AngleEye
  A convolutional model that recognizes the orientation of objects in an image.
-
+ ![angleeye_시연](https://github.com/heayounchoi/AngleEye/assets/118031423/65009190-90cf-4f89-8e29-21e9954bf837)
+ 
 ## Detector.py
 - This module uses FasterRCNN-Resnet50-FPN model to detect object from an image.
 - It only draws boxes around objects with the highest scores.
